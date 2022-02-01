@@ -15,7 +15,7 @@ const sidebarContainerBottom = document.querySelector(".sidebar-container-bottom
 
 const sidebarMenuIcons = document.querySelector(".sidebar-menu-icons")
 
-function closeMenu () {
+function closeMenu() {
     sidebarContainerTopLogo.classList.add("display")
     sidebarMenuListInput.classList.add("display")
     sidebarMenuListName.forEach(element => {
@@ -34,7 +34,7 @@ function closeMenu () {
     count++
 }
 
-function openMenu () {
+function openMenu() {
     sidebarContainerTopLogo.classList.remove("display")
     sidebarMenuListInput.classList.remove("display")
     sidebarMenuListName.forEach(element => {
@@ -54,7 +54,7 @@ function openMenu () {
 }
 
 buttonCloseMenu.addEventListener("click", () => {
-    if(count == 0){
+    if (count == 0) {
         closeMenu()
     } else {
         openMenu()
