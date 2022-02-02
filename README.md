@@ -1,12 +1,12 @@
 # SIDEBAR RESPONSIVE
 
-## Esse projeto é um menu lateral responsivo, desenvolvido em html, css e javascript um dos desafios do discover.
+## This project is a responsive side menu, developed in html, css and javascript, one of discover's challenges.
 
 <br>
 <img src="./sidebar.gif">
 <br>
 
-## Tecnologias
+## Technologies
 
 - HTML
 - CSS
@@ -18,6 +18,6 @@
 - Google Fonts
 - Flaticon
 
-## Visualização
+## View
 
-- Execute o arquivo principal ( index.html ) no browser.
+- Run the main file ( index.html ) in the browser.
