@@ -1,10 +1,8 @@
 # SIDEBAR RESPONSIVE
 
-## This project is a responsive side menu, developed in html, css and javascript, one of discover's challenges.
+### This project is a responsive side menu, developed in html, css and javascript, one of discover's challenges.
 
-<br>
 <img src="./sidebar.gif">
-<br>
 
 ## Technologies
 
@@ -12,7 +10,7 @@
 - CSS
 - JAVASCRIPT
 
-## Sites
+## Websites
 
 - Figma
 - Google Fonts
@@ -21,3 +19,7 @@
 ## View
 
 - Run the main file ( index.html ) in the browser.
+
+## License
+
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
